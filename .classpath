@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="libs/eventbus.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/j-ogg-oggd.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/j-ogg-vorbisd.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/jinput.jar" sourcepath="libs_doc/lwjgl-source-2.9.1.zip"/>
+	<classpathentry exported="true" kind="lib" path="libs/jME3-blender.jar" sourcepath="libs_doc/jMonkeyEngine3-sources.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/JME3/libs_doc/jMonkeyEngine3-javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="libs/jME3-effects.jar" sourcepath="libs_doc/jMonkeyEngine3-sources.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/JME3/libs_doc/jMonkeyEngine3-javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="libs/jME3-jogg.jar" sourcepath="libs_doc/jMonkeyEngine3-sources.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/JME3/libs_doc/jMonkeyEngine3-javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="libs/jME3-lwjgl-natives.jar" sourcepath="libs_doc/jMonkeyEngine3-sources.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/JME3/libs_doc/jMonkeyEngine3-javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="libs/jME3-niftygui.jar" sourcepath="libs_doc/jMonkeyEngine3-sources.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/JME3/libs_doc/jMonkeyEngine3-javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="libs/jME3-plugins.jar" sourcepath="libs_doc/jMonkeyEngine3-sources.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/JME3/libs_doc/jMonkeyEngine3-javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="libs/lwjgl.jar" sourcepath="libs_doc/lwjgl-source-2.9.1.zip"/>
+	<classpathentry exported="true" kind="lib" path="libs/xmlpull-xpp3.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/jME3-core.jar" sourcepath="libs_doc/jMonkeyEngine3-sources.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/JME3/libs_doc/jMonkeyEngine3-javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="libs/jME3-desktop.jar" sourcepath="libs_doc/jMonkeyEngine3-sources.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/JME3/libs_doc/jMonkeyEngine3-javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="libs/jME3-lwjgl.jar" sourcepath="libs_doc/jMonkeyEngine3-sources.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/JME3/libs_doc/jMonkeyEngine3-javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="libs/nifty.jar" sourcepath="libs_doc/nifty-1.3.3-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/JME3/libs_doc/nifty-1.3.3-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
