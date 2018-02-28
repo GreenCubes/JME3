@@ -35,7 +35,7 @@
 			<attribute name="javadoc_location" value="jar:platform:/resource/JME3/libs_doc/jMonkeyEngine3-javadoc.zip!/"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="libs/lwjgl.jar" sourcepath="libs_doc/lwjgl-source-2.9.1.zip"/>
+	<classpathentry exported="true" kind="lib" path="libs/lwjgl.jar" sourcepath="libs_doc/lwjgl-source-2.9.4.zip"/>
 	<classpathentry exported="true" kind="lib" path="libs/xmlpull-xpp3.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/jME3-core.jar" sourcepath="libs_doc/jMonkeyEngine3-sources.zip">
 		<attributes>
